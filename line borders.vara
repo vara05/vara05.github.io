@@ -1,0 +1,67 @@
+<html>
+<head>
+    <title>BORDERS</title>
+	<style type="text/css">
+	    .border{
+		    border-style:groove;
+			border-width:4px;
+			border-color:red;
+		}
+		.border1{
+		border-style:dotted;
+			border-width:3px;
+			border-color:black;
+		}
+		.border2{
+		    border-style:solid;
+			border-width:7px;
+			border-color:green;
+		}
+		.border3{
+		    border-style:double;
+			border-width:8px;
+			border-color:blue;
+		}
+		.border4{
+		    border-style:inset;
+			border-width:4px;
+			border-color:gray;
+		}
+	</style>
+</head>
+    <body>
+	    <div class="border">
+		      Role of each person in any organization is fixed. The concept of
+              role is who will be doing what should be known, to achieve organizational targets
+              efficiently. It is intended that all the tasks necessary to achieve targets are
+              assigned to people who can do the best.
+		</div>
+		<div class="border1">
+		      Involves selecting the objectives and actions to achieves them
+              planning stage involves decision making and choosing future courses of action
+              from the various alternatives
+		</div>
+		<div class="border2">
+		       Staffing function includes keeping the various organizational position
+               fixed. This activity is done by identifying work force requirements, keeping the
+               records of the performance of people working with the organization. So that
+               suitable people can be prompted and at the same time people performing not up
+               to the mark could be send for training. If all the above activities 
+		</div>
+		<div class="border3">
+		       It is the process of comparing the plans with the results. If there is
+               deviation attain taken to be bridge the gap between plan and actual results.
+               Coordinating The essence of management is the achievement of coordination
+		</div>
+		<div class="border4">
+		       peoplecoordination is a complex process following the principles by
+               which organization activity can be accomplished. Coordinative is possible oniy if
+               all the personnel working in the organization accept the target of the
+               organization. This target must beclearly defined and sold to every one
+               concerned.
+		</div>
+		<div class="hs">
+		   KIET group of institutions
+		  </div>
+	</body>
+</html>
